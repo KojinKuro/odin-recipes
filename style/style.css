@@ -1,0 +1,14 @@
+/* sets font across pages */
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* adds background color to titles */
+.recipe_title {
+    background-color: gold;
+}
+
+/* list remove bullets */
+.links ul > li {
+    list-style: none;
+}
