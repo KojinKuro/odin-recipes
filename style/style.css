@@ -3,12 +3,22 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+body {
+    margin: 0px 30%;
+}
+
 /* adds background color to titles */
 .recipe_title {
     background-color: gold;
+    padding: 15px;
 }
 
 /* list remove bullets */
 .links ul > li {
     list-style: none;
+}
+
+/* shortcut for all sub-titles instead of using a class */
+h2 {
+    border-bottom: 1px solid black;
 }
