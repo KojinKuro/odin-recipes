@@ -4,7 +4,8 @@
 }
 
 body {
-    margin: 0px 30%;
+    width: 750px;
+    margin: 0px auto;
 }
 
 /* adds background color to titles */
