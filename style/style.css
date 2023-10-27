@@ -13,7 +13,7 @@ body {
     padding: 15px;
 }
 
-/* list remove bullets */
+/* list of links remove bullets */
 .links ul > li {
     list-style: none;
 }
